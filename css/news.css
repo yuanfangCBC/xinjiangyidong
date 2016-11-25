@@ -1,0 +1,93 @@
+h5{
+	margin: 0;
+	padding: 0;
+}
+h3{
+	margin: 0;
+	padding: 0;
+	letter-spacing: 2px;
+}
+h6{
+	margin: 0;
+	padding: 0;
+}
+a{
+	margin: 0;
+	padding: 0;
+}
+.nav-daohang-text ul li:first-child a{
+	border-bottom: 3px solid #0080cc;
+	color: #0080cc;
+}
+.content{
+	height: 800px;
+}
+
+.yemian-title{
+	height: 140px;
+}
+.yemian-title h5{
+	text-align: left;
+    margin-bottom: 50px;
+    padding-top: 25px;
+    border-bottom: 2px dotted #999898;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    font-size: 14px;
+    color: #333333;
+}
+.yemian-title h3{
+	font-size: 24px;
+	color: #212121;
+	margin-bottom: 10px;
+}
+
+.wenzhang-time{
+	height: 40px;
+	background-color: #dcdcdc;
+}
+.wenzhang-time h6{
+	color: #1c1c1c;
+	font-size: 12px;
+}
+.text-left{
+	margin-left: 360px;
+    margin-top: 15px;
+}
+.text-right{
+	margin-right: 360px;
+	margin-top: 15px;
+}
+
+.wenzhang-text{
+	width: 908px;
+	height: 470px;
+	margin: 50px;
+}
+.wenzhang-text p{
+	text-indent:2em;
+}
+
+.close-wenzhang{
+	width: 908px;
+	height: 40px;	
+}
+.close-wenzhang a{
+	color: #c42715;
+	font-size: 16px;
+	float: right;
+	margin-right: 20px;
+}
+
+
+
+
+
+/*效果*/
+a,
+a:hover,
+a:focus,
+a:active {
+	text-decoration: none;
+	    outline: none;
+}
